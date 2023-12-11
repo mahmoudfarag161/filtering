@@ -1,0 +1,19 @@
+/* ---- base ---- */
+a {
+    text-decoration: none !important;
+}
+a:hover {
+    color: #0a58ca !important;
+    text-decoration: underline !important;
+}
+article span {
+    color: #565656;
+}
+.sidebar {
+    background-color: #f5f5f5;
+}
+
+
+
+
+
